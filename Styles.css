@@ -1,0 +1,151 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: green;
+
+}
+body{
+	margin:0;
+}
+
+.gc{ text-align: center;
+font-family: "Bookman"; 
+font-size:30px;
+color: black;
+font: "Bookman"
+}
+
+.bdy{
+	background-color: brown
+}
+
+.pb{
+	display: grid;
+  grid-template-columns: auto auto auto;
+  background-color:none;
+  padding: 10px;
+  padding-top: 18px;
+  margin-bottom: 0;;
+}
+.t1,.t2,.t3{ font-size: 25px;
+font-weight: bold;
+text-align: center;
+border:solid;
+border: 5px; 
+color:white;
+padding-top: 5px;
+text-shadow:2px 2px 2px black, 0 0 25px, 0 0 5px black;
+}
+.s1, .s2, .s3 {
+  background-color: none;
+  border: 0px);
+  padding: 20px;
+  font-size: 30px;
+  text-shadow: none;
+  color:white;
+}
+.sp1,.sp2,.sp3{ border-radius: 40px;
+
+cursor:pointer;
+height: 400px;
+width:400px;
+box-shadow: 10px 10px 5px maroon;
+margin-left: auto;
+ }
+
+
+.container {  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color:none;
+  padding: 10px;
+  padding-top: 18px;
+  margin-bottom: 0;
+  padding-left: 50px;
+}
+
+.s2{padding-margin: 370px;}
+.gi1,.gi2,.gi3{
+  background-color:none;  border: 0px solid rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+
+}
+.blackshirt, .cargo, .denim, .ripe, .blueberry,.caramel {width: 300px;
+height: 300px;
+cursor:pointer;
+box-shadow:5px 5px 2px black, 0 0 25px, 0 0 5px black;
+border-radius: 35px;
+}
+#git1,#git2,#git3{  
+font-weight:bold;
+color: white
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color:none;
+  padding: 10px;
+  margin-right: 50px;
+
+}
+.gi2{
+	margin-left: -100px
+}
+.gi3{
+	margin-left: -40px;
+}
+.ac{
+left: 0;
+  right: 0;
+  bottom: 0;
+  width: 98.7%;
+  text-align: center;
+  font-size: 20px;
+  background-color: #2c2e38;
+  color: #d7ceb2;
+  font: "Helvetica", Arial, sans-serif;
+  border-radius: 0px 0px 0px 0px;
+  padding: 0.5em;
+  position: bottom;
+  text-shadow: none;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top:30px;
+}
+
+
+
+div.gc1{text-align: center;
+font-family: "Bookman"; 
+font-size:30px;
+color: white;
+font: "Bookman"
+text-shadow:2px 2px 2px black, 0 0 25px, 0 0 5px black;
+width:100%;
+background-color: #3F000f;
+padding-top: 20px;
+padding-bottom: 20px;
+text-align:center;
+
+
+}
+.t2{font-size: 35px;}
